@@ -9,8 +9,9 @@
 
 ## 💡 À propos de moi
 
-Passionnée par le développement web, je conçois et intègre des sites WordPress sur mesure à partir de maquettes graphiques (Figma, Adobe XD).  
-Je mets un point d'honneur à créer des interfaces esthétiques, accessibles et adaptées à tous les écrans.
+Passionnée par le développement web, je conçois et intègre des sites WordPress sur mesure à partir de maquettes graphiques (Figma, Adobe XD).
+Je suis diplômée de la formation Développeur Web chez OpenClassrooms et je continue à me former en autodidacte pour rester à jour des dernières technologies.
+Je mets un point d'honneur à créer des interfaces claires, esthétiques et adaptées à tous les écrans.
 
 ---
 
