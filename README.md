@@ -16,14 +16,18 @@ Je mets un point d'honneur à créer des interfaces claires, esthétiques et ada
 
 ---
 
-## 🛠️ Compétences
+### 🛠️ Mes compétences principales
 
-- 🧩 **WordPress** : création de thèmes sur mesure, développement de plugins, **ACF (Advanced Custom Fields)**, personnalisation avancée  
+- 🧩 **WordPress** :  
+  - Création de thèmes sur mesure  
+  - Développement de plugins  
+  - **ACF & ACF JSON** (export/import de champs)  
+  - Utilisation de **WP_Query** pour requêtes personnalisées  
+  - Maîtrise des **hooks** (actions et filtres)  
 - 🎨 Intégration de maquettes : HTML / CSS / JS / PHP  
 - 🛠️ Responsive design, SEO, optimisation web  
 - 🖌️ Outils : Figma, Adobe XD, Photoshop, Git / GitHub, **FTP**  
-- 💡 Approche centrée utilisateur, design cohérent et accessible 
-- 🛠️ Git & GitHub pour la gestion de projet  
+- 💡 Approche centrée utilisateur, design cohérent et accessible
 
 ---
 
@@ -46,6 +50,8 @@ D'ici là, n'hésitez pas à découvrir mes dépôts publics sur GitHub !
 ## 📫 Me contacter
 
 📩 Email : fadma.moumni.pro@gmail.com
+
+📍 Disponible pour des missions ou collaborations en freelance
 
 ---
 
