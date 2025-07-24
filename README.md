@@ -1,16 +1,45 @@
-## Hi there 👋
 
-<!--
-**Fadma-MOUMNI/Fadma-MOUMNI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bonjour, je suis Fadma 👋
 
-Here are some ideas to get you started:
+💼 **Développeuse WordPress** & **Web Designer**  
+🎨 Intégratrice d'interfaces web réactives  
+📍 Basée à paris, France
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 À propos de moi
+
+Passionnée par le développement web, je conçois et intègre des sites WordPress sur mesure à partir de maquettes graphiques (Figma, Adobe XD).  
+Je mets un point d'honneur à créer des interfaces claires, esthétiques et adaptées à tous les écrans.
+
+---
+
+## 🛠️ Compétences
+
+- 🔧 WordPress (thèmes & plugins personnalisés)
+- 🖌️ Intégration HTML, CSS, JS, PHP
+- 📱 Responsive Design / UX/UI
+- 🛠️ Gestion de projet avec Git & GitHub
+
+---
+
+## 🚀 Projets récents
+
+- [📸 Nathalie-Mota](#)
+- [🖥️ Koukaki](#)
+- [🌿 PLANTY](#)
+- [👜 chic-Dressing](#)
+
+
+
+---
+
+## 🌐 Portfolio
+
+Mon portfolio en ligne est actuellement en cours de refonte.  
+D'ici là, n'hésitez pas à explorer mes dépôts publics !
+
+---
+
+🙏 Merci pour votre visite !
+
