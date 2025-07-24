@@ -18,9 +18,11 @@ Je mets un point d'honneur à créer des interfaces claires, esthétiques et ada
 
 ## 🛠️ Compétences
 
-- 🧩 WordPress (thèmes & plugins personnalisés)  
-- 💻 Intégration HTML, CSS, JS, PHP  
-- 🧠 UX/UI Design responsive (Figma, Adobe XD)  
+- 🧩 **WordPress** : création de thèmes sur mesure, développement de plugins, **ACF (Advanced Custom Fields)**, personnalisation avancée  
+- 🎨 Intégration de maquettes : HTML / CSS / JS / PHP  
+- 🛠️ Responsive design, SEO, optimisation web  
+- 🖌️ Outils : Figma, Adobe XD, Photoshop, Git / GitHub, **FTP**  
+- 💡 Approche centrée utilisateur, design cohérent et accessible 
 - 🛠️ Git & GitHub pour la gestion de projet  
 
 ---
