@@ -26,7 +26,7 @@ Je mets un point d'honneur à créer des interfaces claires, esthétiques et ada
   - Maîtrise des **hooks** (actions et filtres)  
 - 🎨 Intégration de maquettes : HTML / CSS / JS / PHP  
 - 🛠️ Responsive design, SEO, optimisation web  
-- 🖌️ Outils : Figma, Adobe XD, Photoshop, Git / GitHub, **FTP**  
+- 🖌️ Outils : Figma, Adobe XD, Adobe Illustrator, Adobe Photoshop, Git / GitHub, **FTP**  
 - 💡 Approche centrée utilisateur, design cohérent et accessible
 
 ---
