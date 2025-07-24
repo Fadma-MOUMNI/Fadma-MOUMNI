@@ -1,8 +1,9 @@
 
 # Bonjour, je suis Fadma 👋
 
-### 💼 Développeuse WordPress & Web Designer  
-🎨 Intégratrice d’interfaces web responsives  
+💼 **Développeuse Web / WordPress & Web Designer**
+
+ 🎨 Intégratrice d’interfaces web responsives  
 📍 Basée à Paris, France
 
 ---
