@@ -36,7 +36,7 @@ Je mets un point d'honneur à créer des interfaces claires, esthétiques et ada
 - 🔹 [Nathalie-Mota](https://github.com/Fadma-MOUMNI/Nathalie-Mota)
 - 🔸 [Koukaki](https://github.com/Fadma-MOUMNI/koukaki)
 - 🔹 [PLANTY](https://github.com/Fadma-MOUMNI/PLANTY)
-- 🔸 [chic-Dressing](https://github.com/Fadma-MOUMNI/chic-Dressing)
+
 
 ---
 
