@@ -51,7 +51,7 @@ D'ici là, n'hésitez pas à découvrir mes dépôts publics sur GitHub !
 
 📩 Email : fadma.moumni.pro@gmail.com
 
-📍 Disponible pour des missions ou collaborations en freelance
+📍 Disponible pour **tout type de contrat** (CDI, CDD, alternance, stage) et en **freelance**.
 
 ---
 
